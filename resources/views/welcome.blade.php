@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    practical training course 
+                    practical training course 1
                 </div>
 
                 <div class="links">
